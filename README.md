@@ -14,4 +14,5 @@ The 7 classes are distributed in this order:
 You can run the demo on any jpg format image (that must be placed in folder *Data*) by running main.py file.  
 N.B. you need to download [model_caffenet.caffemodel](https://drive.google.com/file/d/1efgExeaV0pDZkYj0M_tEi1IlZEycQdRq/view?usp=sharing) and place it in *Tools/CaffeNet/*.  
 
-
+## Caffe
+Need to install caffe in order to run the code.
